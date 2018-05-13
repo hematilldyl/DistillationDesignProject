@@ -1,4 +1,5 @@
 %Solve for activity coefficients, sat. vapor pressure, vapor compositions and Temperature of binary ideal vapor, non ideal liquid system
+%Uses van Laar equations to relate activity coefficients to compositions
 
 function F = roots(x)
 %System of equations to solve
